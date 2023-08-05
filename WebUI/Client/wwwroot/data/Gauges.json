@@ -93,13 +93,13 @@
     "Id": 15,
     "NameEN": "Veda",
     "NameJP": "ヴェーダ",
-    "NameCN": "吠陀"
+    "NameCN": "维达"
   },
   {
     "Id": 16,
     "NameEN": "A-Laws",
     "NameJP": "アロウズ",
-    "NameCN": ""
+    "NameCN": "A-Laws"
   },
   {
     "Id": 17,
@@ -123,7 +123,7 @@
     "Id": 20,
     "NameEN": "Type Leos",
     "NameJP": "TYPE-レオス",
-    "NameCN": "TYPE-莱奥斯"
+    "NameCN": "TYPE-雷欧斯"
   },
   {
     "Id": 21,
@@ -195,7 +195,7 @@
     "Id": 32,
     "NameEN": "Akatsuki",
     "NameJP": "アカツキ",
-    "NameCN": "晓"
+    "NameCN": "拂晓"
   },
   {
     "Id": 33,
@@ -219,13 +219,13 @@
     "Id": 36,
     "NameEN": "Moore's Brotherhood",
     "NameJP": "ムーア同胞団",
-    "NameCN": "摩尔同胞团"
+    "NameCN": "穆雅同胞团"
   },
   {
     "Id": 37,
     "NameEN": "Kimaris Trooper",
     "NameJP": "キマリス・トルーパー",
-    "NameCN": "高达·锡蒙利骑兵"
+    "NameCN": "高达锡蒙利骑兵"
   },
   {
     "Id": 38,
@@ -261,7 +261,7 @@
     "Id": 43,
     "NameEN": "Gundam Barbatos Lupus",
     "NameJP": "ガンダム・バルバトスルプス",
-    "NameCN": "高达巴巴托斯天狼星"
+    "NameCN": "高达巴巴托斯天狼座"
   },
   {
     "Id": 44,
@@ -291,7 +291,7 @@
     "Id": 48,
     "NameEN": "Atlas Gundam",
     "NameJP": "アトラスガンダム",
-    "NameCN": "擎天神高达"
+    "NameCN": "阿特拉斯高达"
   },
   {
     "Id": 49,
@@ -321,13 +321,13 @@
     "Id": 53,
     "NameEN": "EXVS Silver Rank",
     "NameJP": "EXVSシルバーランク",
-    "NameCN": "EXVS 银级排名"
+    "NameCN": "EXVS 白银排名"
   },
   {
     "Id": 54,
     "NameEN": "EXVS Bronze Rank",
     "NameJP": "EXVSブロンズランク",
-    "NameCN": "EXVS 铜级排名"
+    "NameCN": "EXVS 青铜排名"
   },
   {
     "Id": 55,
@@ -345,7 +345,7 @@
     "Id": 57,
     "NameEN": "Gundam Maxter",
     "NameJP": "ガンダムマックスター",
-    "NameCN": "高达麦克斯特"
+    "NameCN": "高达麦克之星"
   },
   {
     "Id": 58,
@@ -357,7 +357,7 @@
     "Id": 59,
     "NameEN": "Gundam Barbatos Lupus Rex",
     "NameJP": "ガンダム・バルバトスルプスレクス",
-    "NameCN": "高达·巴巴托斯狼王"
+    "NameCN": "高达·巴巴托斯天狼王型"
   },
   {
     "Id": 60,
@@ -375,7 +375,7 @@
     "Id": 62,
     "NameEN": "Gundam G-Self",
     "NameJP": "ガンダム G-セルフ",
-    "NameCN": "高达G-自我"
+    "NameCN": "高达G-Self"
   },
   {
     "Id": 63,
@@ -387,7 +387,7 @@
     "Id": 64,
     "NameEN": "Jagd Doga",
     "NameJP": "ヤクト・ドーガ",
-    "NameCN": "贾格德·多加"
+    "NameCN": "乍得·多加"
   },
   {
     "Id": 65,
@@ -405,7 +405,7 @@
     "Id": 68,
     "NameEN": "Galvaria B34M3R",
     "NameJP": "ガルバリア B34M3R",
-    "NameCN": "加尔瓦利亚 B34M3R"
+    "NameCN": "加鲁威利亚 B34M3R"
   },
   {
     "Id": 69,
@@ -441,7 +441,7 @@
     "Id": 74,
     "NameEN": "Fawn Farsia",
     "NameJP": "フォーンファルシア",
-    "NameCN": "梵·法尔西亚"
+    "NameCN": "冯法尔西亚"
   },
   {
     "Id": 75,
@@ -489,7 +489,7 @@
     "Id": 82,
     "NameEN": "Banshee Norn",
     "NameJP": "バンシー・ノルン",
-    "NameCN": "命运女神"
+    "NameCN": "报丧女妖·命运女神"
   },
   {
     "Id": 83,
@@ -513,7 +513,7 @@
     "Id": 86,
     "NameEN": "Gundam Galvaria",
     "NameJP": "ガンダムガルバリア",
-    "NameCN": "高达·加尔瓦里亚"
+    "NameCN": "高达加鲁威利亚"
   },
   {
     "Id": 87,
@@ -555,7 +555,7 @@
     "Id": 93,
     "NameEN": "Bertigo",
     "NameJP": "ベルティゴ",
-    "NameCN": "贝尔蒂戈"
+    "NameCN": "贝迪哥"
   },
   {
     "Id": 94,
@@ -567,7 +567,7 @@
     "Id": 95,
     "NameEN": "Galvaria H4ND3R",
     "NameJP": "ガルヴァリア H4ND3R",
-    "NameCN": "加尔瓦利亚 H4ND3R"
+    "NameCN": "加鲁威利亚 H4ND3R"
   },
   {
     "Id": 96,
@@ -609,7 +609,7 @@
     "Id": 102,
     "NameEN": "Galvaria W45P3R",
     "NameJP": "ガルバリア W45P3R",
-    "NameCN": "加尔瓦利亚 W45P3R"
+    "NameCN": "加鲁威利亚 W45P3R"
   },
   {
     "Id": 103,
@@ -627,7 +627,7 @@
     "Id": 105,
     "NameEN": "Sleeves Soldier",
     "NameJP": "袖付き",
-    "NameCN": "袖残党/带袖的"
+    "NameCN": "带袖的"
   },
   {
     "Id": 106,
@@ -771,7 +771,7 @@
     "Id": 129,
     "NameEN": "High Mobility Zaku II Custom",
     "NameJP": "高機動型ザクII改",
-    "NameCN": "高机动型扎古 II改"
+    "NameCN": "高机动型扎古II改"
   },
   {
     "Id": 130,
@@ -789,7 +789,7 @@
     "Id": 132,
     "NameEN": "Kabakali",
     "NameJP": "カバカリ",
-    "NameCN": "卡巴卡利"
+    "NameCN": "迦巴卡利"
   },
   {
     "Id": 133,
@@ -837,7 +837,7 @@
     "Id": 140,
     "NameEN": "Doven Wolf",
     "NameJP": "ドーベン・ウルフ",
-    "NameCN": "彪狼"
+    "NameCN": "飚狼"
   },
   {
     "Id": 141,
@@ -921,7 +921,7 @@
     "Id": 154,
     "NameEN": "Team Trinity",
     "NameJP": "チームトリニティ",
-    "NameCN": "三位一体团队"
+    "NameCN": "三位一体"
   },
   {
     "Id": 155,
@@ -1137,19 +1137,19 @@
     "Id": 190,
     "NameEN": "Star Build Gundam",
     "NameJP": "スタービルドガンダム",
-    "NameCN": "星创高达"
+    "NameCN": "星际创制高达"
   },
   {
     "Id": 191,
     "NameEN": "Unicorn Gundam Unit 3 Phenex",
     "NameJP": "ユニコーンガンダム3号機 フェネクス",
-    "NameCN": "独角兽高达3号机 凤凰"
+    "NameCN": "独角兽高达3号机菲尼克斯"
   },
   {
     "Id": 192,
     "NameEN": "Gundam Flauros (Ryusei-Go)",
     "NameJP": "ガンダム·フラウロス（流星号）",
-    "NameCN": "高达·弗劳罗斯（流星号）"
+    "NameCN": "高达·弗洛伦斯（流星号）"
   },
   {
     "Id": 193,
@@ -1173,7 +1173,7 @@
     "Id": 196,
     "NameEN": "Sai Sai Sai",
     "NameJP": "サイ・サイシー",
-    "NameCN": "蔡采施"
+    "NameCN": "蔡斋西"
   },
   {
     "Id": 197,
@@ -1197,7 +1197,7 @@
     "Id": 200,
     "NameEN": "High Mobility Type Gelgoog",
     "NameJP": "高機動型ゲルググ",
-    "NameCN": "高机动型格鲁古古"
+    "NameCN": "高机动型勇士"
   },
   {
     "Id": 201,
@@ -1209,7 +1209,7 @@
     "Id": 202,
     "NameEN": "Over.On",
     "NameJP": "オーヴェロン",
-    "NameCN": "奥伯龙"
+    "NameCN": "欧贝隆"
   },
   {
     "Id": 203,
@@ -1251,7 +1251,7 @@
     "Id": 209,
     "NameEN": "Garazzo (Hiling Care Custom)",
     "NameJP": "ガラッツォ（ヒリングケアカスタム）",
-    "NameCN": "加拉佐（希林·凯尔）"
+    "NameCN": "加莱佐（希林格·凯尔）"
   },
   {
     "Id": 210,
@@ -1269,13 +1269,13 @@
     "Id": 212,
     "NameEN": "G-Mecha",
     "NameJP": "Gメカ",
-    "NameCN": "G机甲"
+    "NameCN": "G战机"
   },
   {
     "Id": 213,
     "NameEN": "Archangel",
     "NameJP": "アークエンジェル",
-    "NameCN": "大天使"
+    "NameCN": "大天使号"
   },
   {
     "Id": 214,
@@ -1305,7 +1305,7 @@
     "Id": 218,
     "NameEN": "Banshee",
     "NameJP": "バンシー",
-    "NameCN": "报丧"
+    "NameCN": "报丧女妖"
   },
   {
     "Id": 219,
@@ -1341,31 +1341,31 @@
     "Id": 224,
     "NameEN": "Zeydra",
     "NameJP": "ゼイドラ",
-    "NameCN": "泽德拉"
+    "NameCN": "杰德拉"
   },
   {
     "Id": 225,
     "NameEN": "N-Extreme Gundam Explosion",
     "NameJP": "N-EXTREMEガンダム エクスプロージョン",
-    "NameCN": "N-EXTREME高达-Explosion"
+    "NameCN": "N-Extreme E高达"
   },
   {
     "Id": 226,
     "NameEN": "N-Extreme Gundam Xanadu",
     "NameJP": "N-EXTREMEガンダム ザナドゥ",
-    "NameCN": "N-Extreme高达-Xanadu"
+    "NameCN": "N-Extreme X高达"
   },
   {
     "Id": 227,
     "NameEN": "N-Extreme Gundam Vicious",
     "NameJP": "N-EXTREMEガンダム ヴィシャス",
-    "NameCN": "N-Extreme高达-Vicious"
+    "NameCN": "N-Extreme V高达"
   },
   {
     "Id": 228,
     "NameEN": "N-Extreme Gundam Supremacy",
     "NameJP": "N-EXTREMEガンダム スプレマシー",
-    "NameCN": "N-Extreme高达-Supremacy"
+    "NameCN": "N-Extreme S高达"
   },
   {
     "Id": 229,
@@ -1377,7 +1377,7 @@
     "Id": 230,
     "NameEN": "couple",
     "NameJP": "カップル",
-    "NameCN": "卡普鲁"
+    "NameCN": "卡普尔"
   },
   {
     "Id": 231,
@@ -1461,7 +1461,7 @@
     "Id": 244,
     "NameEN": "Beginner Gina II (Decisive battle against Jupiter)",
     "NameJP": "ビギナ・ギナII(木星決戦仕様)",
-    "NameCN": "比吉娜·吉娜II(木星决战样式)"
+    "NameCN": "维基娜·吉娜II(木星决战样式)"
   },
   {
     "Id": 245,
@@ -1485,7 +1485,7 @@
     "Id": 248,
     "NameEN": "Raider Gundam",
     "NameJP": "レイダーガンダム",
-    "NameCN": "劫掠高达"
+    "NameCN": "强夺高达"
   },
   {
     "Id": 249,
@@ -1509,7 +1509,7 @@
     "Id": 252,
     "NameEN": "Sengoku Astray Gundam [EX]",
     "NameJP": "戦国アストレイガンダム【EX】",
-    "NameCN": "战国异端高达 [EX]"
+    "NameCN": "战国异端高达"
   },
   {
     "Id": 253,
