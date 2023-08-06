@@ -681,55 +681,55 @@
     "Id": 114,
     "NameEN": "WINTER BATTLE 2020 Champion",
     "NameJP": "WINTER BATTLE 2020 優勝",
-    "NameCN": "2020 年冬季大赛 冠军"
+    "NameCN": "2020 年冬季大赛 冠军（赛事）"
   },
   {
     "Id": 115,
     "NameEN": "WINTER BATTLE 2020 Runner-Up",
     "NameJP": "WINTER BATTLE 2020 準優勝",
-    "NameCN": "2020 年冬季大赛 亚军"
+    "NameCN": "2020 年冬季大赛 亚军（赛事）"
   },
   {
     "Id": 116,
     "NameEN": "VS2 Red",
     "NameJP": "VS2レッド",
-    "NameCN": "VS2 红色"
+    "NameCN": "VS2 红色（EXVS）"
   },
   {
     "Id": 117,
     "NameEN": "VS2 Green",
     "NameJP": "VS2 グリーン",
-    "NameCN": "VS2 绿色"
+    "NameCN": "VS2 绿色（EXVS）"
   },
   {
     "Id": 118,
     "NameEN": "SD Knight Gundam",
     "NameJP": "SDナイトガンダム",
-    "NameCN": "SD骑士高达"
+    "NameCN": "SD骑士高达（SD外传）"
   },
   {
     "Id": 119,
     "NameEN": "Gundam Kyrios",
     "NameJP": "ガンダムキュリオス",
-    "NameCN": "主天使高达"
+    "NameCN": "主天使高达（00）"
   },
   {
     "Id": 120,
     "NameEN": "PREMIUM DOGFIGHT 2019 Winner",
     "NameJP": "プレミアムドッグファイト2019 優勝",
-    "NameCN": "PDF2019 冠军"
+    "NameCN": "PDF2019 冠军（PDF）"
   },
   {
     "Id": 121,
     "NameEN": "PREMIUM DOGFIGHT 2019 runner up",
     "NameJP": "プレミアムドッグファイト2019 準優勝",
-    "NameCN": "PDF2019 亚军"
+    "NameCN": "PDF2019 亚军（PDF）"
   },
   {
     "Id": 122,
     "NameEN": "PREMIUM DOGFIGHT 2019 best 8",
     "NameJP": "プレミアムドッグファイト2019 ベスト8",
-    "NameCN": "PDF2019 8强"
+    "NameCN": "PDF2019 8强（PDF）"
   },
   {
     "Id": 123,
@@ -765,19 +765,19 @@
     "Id": 128,
     "NameEN": "Aegis Gundam",
     "NameJP": "イージスガンダム",
-    "NameCN": "圣盾高达"
+    "NameCN": "圣盾高达（seed）"
   },
   {
     "Id": 129,
     "NameEN": "High Mobility Zaku II Custom",
     "NameJP": "高機動型ザクII改",
-    "NameCN": "高机动型扎古II改"
+    "NameCN": "高机动型扎古II改（MSV）"
   },
   {
     "Id": 130,
     "NameEN": "Wing Gundam Fenice",
     "NameJP": "ウイングガンダムフェニーチェ",
-    "NameCN": "凤凰飞翼高达"
+    "NameCN": "凤凰飞翼高达（创战）"
   },
   {
     "Id": 131,
@@ -789,7 +789,7 @@
     "Id": 132,
     "NameEN": "Kabakali",
     "NameJP": "カバカリ",
-    "NameCN": "迦巴卡利"
+    "NameCN": "迦巴卡利（G之复国运动）"
   },
   {
     "Id": 133,
@@ -825,49 +825,49 @@
     "Id": 138,
     "NameEN": "SUMMER BATTLE 2022 Champion",
     "NameJP": "サマーバトル2022 優勝",
-    "NameCN": "2022 年夏季大赛 冠军"
+    "NameCN": "2022 年夏季大赛 冠军（大赛）"
   },
   {
     "Id": 139,
     "NameEN": "SUMMER BATTLE 2022 Runner-Up",
     "NameJP": "サマーバトル2022 準優勝",
-    "NameCN": "2022 年夏季大赛 亚军"
+    "NameCN": "2022 年夏季大赛 亚军（大赛）"
   },
   {
     "Id": 140,
     "NameEN": "Doven Wolf",
     "NameJP": "ドーベン・ウルフ",
-    "NameCN": "飚狼"
+    "NameCN": "飚狼（ZZ）"
   },
   {
     "Id": 141,
     "NameEN": "00 Diver Ace",
     "NameJP": "ダブルオーダイバーエース",
-    "NameCN": "高达00潜行者王牌"
+    "NameCN": "高达00潜行者王牌（创形"
   },
   {
     "Id": 142,
     "NameEN": "Sinanju Stein",
     "NameJP": "シナンジュ・スタイン",
-    "NameCN": "新安州·原石"
+    "NameCN": "新安州·原石（NT）"
   },
   {
     "Id": 143,
     "NameEN": "Bushido",
     "NameJP": "武士道",
-    "NameCN": "武士道"
+    "NameCN": "武士道（00）"
   },
   {
     "Id": 144,
     "NameEN": "Zeta Gundam Biosensor",
     "NameJP": "Zガンダムバイオセンサー",
-    "NameCN": "Z高达生物传感器"
+    "NameCN": "Z高达生物传感器（Z）"
   },
   {
     "Id": 145,
     "NameEN": "Zaku II",
     "NameJP": "ザクⅡ",
-    "NameCN": "扎古II"
+    "NameCN": "扎古II（0079）"
   },
   {
     "Id": 146,
@@ -903,115 +903,115 @@
     "Id": 151,
     "NameEN": "Gundam Spiegel",
     "NameJP": "ガンダムシュピーゲル",
-    "NameCN": "明镜高达"
+    "NameCN": "明镜高达（G武斗传）"
   },
   {
     "Id": 152,
     "NameEN": "AGE System",
     "NameJP": "AGEシステム",
-    "NameCN": "AGE系统"
+    "NameCN": "AGE系统（AGE）"
   },
   {
     "Id": 153,
     "NameEN": "Astray Red Frame",
     "NameJP": "アストレイレッドフレーム",
-    "NameCN": "异端高达红色机"
+    "NameCN": "异端高达红色机（seed Astray）"
   },
   {
     "Id": 154,
     "NameEN": "Team Trinity",
     "NameJP": "チームトリニティ",
-    "NameCN": "三位一体"
+    "NameCN": "三位一体（00）"
   },
   {
     "Id": 155,
     "NameEN": "Destiny Gundam",
     "NameJP": "デスティニーガンダム",
-    "NameCN": "命运高达"
+    "NameCN": "命运高达（seed destiny）"
   },
   {
     "Id": 156,
     "NameEN": "Kshatriya",
     "NameJP": "クシャトリヤ",
-    "NameCN": "刹帝利"
+    "NameCN": "刹帝利（UC）"
   },
   {
     "Id": 157,
     "NameEN": "Hi-Nu Gundam",
     "NameJP": "Hi-νガンダム",
-    "NameCN": "Hi-ν高达"
+    "NameCN": "Hi-ν高达（CCA 贝托蒂嘉的子嗣）"
   },
   {
     "Id": 158,
     "NameEN": "Tallgeese III",
     "NameJP": "トールギスIII",
-    "NameCN": "托鲁基斯III"
+    "NameCN": "托鲁基斯III（EW）"
   },
   {
     "Id": 159,
     "NameEN": "Keldim Gundam",
     "NameJP": "ケルディムガンダム",
-    "NameCN": "智天使高达"
+    "NameCN": "智天使高达（00）"
   },
   {
     "Id": 160,
     "NameEN": "Neo-Zeon",
     "NameJP": "ネオ・ジオン",
-    "NameCN": "新·吉翁"
+    "NameCN": "新·吉翁（CCA）"
   },
   {
     "Id": 161,
     "NameEN": "Sazabi",
     "NameJP": "サザビー",
-    "NameCN": "沙扎比"
+    "NameCN": "沙扎比（CCA）"
   },
   {
     "Id": 162,
     "NameEN": "Shuffle Masters Gold",
     "NameJP": "シャッフルマスターズゴールド",
-    "NameCN": "随机大师赛金奖"
+    "NameCN": "随机大师赛金奖（赛事）"
   },
   {
     "Id": 163,
     "NameEN": "Shuffle Masters Silver",
     "NameJP": "シャッフルマスターズシルバー",
-    "NameCN": "随机大师赛银奖"
+    "NameCN": "随机大师赛银奖（赛事）"
   },
   {
     "Id": 164,
     "NameEN": "EXVS 10th Anniversary",
     "NameJP": "EXVS.10周年記念ゲージ",
-    "NameCN": "EXVS.10周年纪念计"
+    "NameCN": "EXVS.10周年纪念计（EXVS）"
   },
   {
     "Id": 165,
     "NameEN": "EXVS",
-    "NameJP": "EXVS",
+    "NameJP": "EXVS（EXVS）",
     "NameCN": ""
   },
   {
     "Id": 166,
     "NameEN": "EXVSFB",
-    "NameJP": "EXVSFB.",
+    "NameJP": "EXVSFB.（EXVS）",
     "NameCN": ""
   },
   {
     "Id": 167,
     "NameEN": "EXVSMB",
-    "NameJP": "EXVSMB.",
+    "NameJP": "EXVSMB.（EXVS）",
     "NameCN": ""
   },
   {
     "Id": 168,
     "NameEN": "EXVSMBON",
-    "NameJP": "EXVSMBON.",
+    "NameJP": "EXVSMBON.（EXVS）",
     "NameCN": ""
   },
   {
     "Id": 169,
     "NameEN": "EXVS2 Default",
     "NameJP": "EXVS2 デフォルト",
-    "NameCN": "EXVS2 默认"
+    "NameCN": "EXVS2 默认（EXVS）"
   },
   {
     "Id": 170,
@@ -1137,49 +1137,49 @@
     "Id": 190,
     "NameEN": "Star Build Gundam",
     "NameJP": "スタービルドガンダム",
-    "NameCN": "星际创制高达"
+    "NameCN": "星际创制高达（创战）"
   },
   {
     "Id": 191,
     "NameEN": "Unicorn Gundam Unit 3 Phenex",
     "NameJP": "ユニコーンガンダム3号機 フェネクス",
-    "NameCN": "独角兽高达3号机菲尼克斯"
+    "NameCN": "独角兽高达3号机菲尼克斯（NT）"
   },
   {
     "Id": 192,
     "NameEN": "Gundam Flauros (Ryusei-Go)",
     "NameJP": "ガンダム·フラウロス（流星号）",
-    "NameCN": "高达·弗洛伦斯（流星号）"
+    "NameCN": "高达·弗洛伦斯（流星号）（铁血）"
   },
   {
     "Id": 193,
     "NameEN": "Hildolfr",
     "NameJP": "ヒルドルフ",
-    "NameCN": "斗狼"
+    "NameCN": "斗狼（一年战争秘录）"
   },
   {
     "Id": 194,
     "NameEN": "Gundam Age?",
     "NameJP": "ガンダムエイジ？",
-    "NameCN": "高达AGE?"
+    "NameCN": "高达AGE?（AGE）"
   },
   {
     "Id": 195,
     "NameEN": "Gundam Deathscythe Hell",
     "NameJP": "ガンダムデスサイズヘル",
-    "NameCN": "高达地狱死神"
+    "NameCN": "高达地狱死神（W）"
   },
   {
     "Id": 196,
     "NameEN": "Sai Sai Sai",
     "NameJP": "サイ・サイシー",
-    "NameCN": "蔡斋西"
+    "NameCN": "蔡斋西（G武斗传）"
   },
   {
     "Id": 197,
     "NameEN": "Infinite Justice Gundam?",
     "NameJP": "インフィニットジャスティスガンダム?",
-    "NameCN": "无限正义高达？"
+    "NameCN": "无限正义高达？（seed destiny）"
   },
   {
     "Id": 198,
@@ -1191,31 +1191,31 @@
     "Id": 199,
     "NameEN": "Dijeh",
     "NameJP": "ディジェ",
-    "NameCN": "迪杰"
+    "NameCN": "迪杰（Z）"
   },
   {
     "Id": 200,
     "NameEN": "High Mobility Type Gelgoog",
     "NameJP": "高機動型ゲルググ",
-    "NameCN": "高机动型勇士"
+    "NameCN": "高机动型勇士（0083）"
   },
   {
     "Id": 201,
     "NameEN": "RX-Zeromaru",
     "NameJP": "RXｰ零丸",
-    "NameCN": "RX-零丸"
+    "NameCN": "RX-零丸（创战）"
   },
   {
     "Id": 202,
     "NameEN": "Over.On",
     "NameJP": "オーヴェロン",
-    "NameCN": "欧贝隆"
+    "NameCN": "欧贝隆（魔女之夜）"
   },
   {
     "Id": 203,
     "NameEN": "Efreet (Doug Schneid's Unit)",
     "NameJP": "イフリート (ダグ・シュナイド部隊)",
-    "NameCN": "伊芙利特（道格·施奈德部队）"
+    "NameCN": "伊芙利特（道格·施奈德部队）（失落的节点）"
   },
   {
     "Id": 204,
