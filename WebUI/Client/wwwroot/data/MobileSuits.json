@@ -9,25 +9,25 @@
     "Id": 1,
     "Value": "Gundam RX-78",
     "ValueJP": "ガンダム",
-    "ValueCN": "高达（0079）"
+    "ValueCN": "高達（0079）"
   },
   {
     "Id": 2,
     "Value": "Char's Gelgoog",
     "ValueJP": "シャア専用ゲルググ",
-    "ValueCN": "夏亚专用勇士（0079）"
+    "ValueCN": "红勇士（0079）"
   },
   {
     "Id": 3,
     "Value": "Acguy",
     "ValueJP": "アッガイ",
-    "ValueCN": "龟霸（0079）"
+    "ValueCN": "龜霸（0079）"
   },
   {
     "Id": 4,
     "Value": "Zeong",
     "ValueJP": "ジオング",
-    "ValueCN": "吉恩号（0079）"
+    "ValueCN": "自護號（0079）"
   },
   {
     "Id": 5,
@@ -39,25 +39,25 @@
     "Id": 6,
     "Value": "Gundam (G-Mecha)",
     "ValueJP": "ガンダム(Gメカ)",
-    "ValueCN": "高达（G战机）（0079）"
+    "ValueCN": "高達（G-Mega）（0079）"
   },
   {
     "Id": 7,
     "Value": "Zaku II Ground Type",
     "ValueJP": "ザクII(ドアン機) [EX]",
-    "ValueCN": "多安扎古2（0079）"
+    "ValueCN": "渣古2（0079）"
   },
   {
     "Id": 8,
     "Value": "Char's Zaku II",
     "ValueJP": "シャア専用ザクII",
-    "ValueCN": "夏亚专用扎古2（0079）"
+    "ValueCN": "馬沙專用渣古2（0079）"
   },
   {
     "Id": 13,
     "Value": "Guncannon",
     "ValueJP": "ガンキャノン [EX]",
-    "ValueCN": "钢加农（0079）",
+    "ValueCN": "鐳射大炮（0079）",
     "Costumes": [
       {
         "Id": 0,
@@ -73,7 +73,7 @@
     "Id": 19,
     "Value": "Zeta Gundam",
     "ValueJP": "Zガンダム",
-    "ValueCN": "Z高达（Z）",
+    "ValueCN": "Z高達（Z）",
     "Costumes": [
       {
         "Id": 0,
@@ -105,7 +105,7 @@
     "Id": 21,
     "Value": "Messala",
     "ValueJP": "メッサーラ",
-    "ValueCN": "梅萨拉（Z）",
+    "ValueCN": "密沙羅（Z）",
     "Costumes": [
       {
         "Id": 0,
@@ -121,7 +121,7 @@
     "Id": 22,
     "Value": "The-O",
     "ValueJP": "ジ・O",
-    "ValueCN": "铁奥（Z）",
+    "ValueCN": "鐵奧（Z）",
     "Costumes": [
       {
         "Id": 0,
@@ -137,31 +137,31 @@
     "Id": 23,
     "Value": "Gundam MK-II",
     "ValueJP": "ガンダムMk-II",
-    "ValueCN": "高达MK-II（Z）"
+    "ValueCN": "高達MK-II（Z）"
   },
   {
     "Id": 24,
     "Value": "Hambrabi",
     "ValueJP": "ハンブラビ",
-    "ValueCN": "汉谟拉比（Z）"
+    "ValueCN": "漢布拉比（Z）"
   },
   {
     "Id": 31,
     "Value": "Marasai",
     "ValueJP": "マラサイ",
-    "ValueCN": "马拉赛（Z）"
+    "ValueCN": "姆歷沙（Z）"
   },
   {
     "Id": 32,
     "Value": "Gabthley",
     "ValueJP": "ガブスレイ",
-    "ValueCN": "加布斯雷（Z）"
+    "ValueCN": "葛士尼（Z）"
   },
   {
     "Id": 34,
     "Value": "Baund Doc",
     "ValueJP": "バウンド・ドック",
-    "ValueCN": "猎犬（Z）"
+    "ValueCN": "獵犬（Z）"
   },
   {
     "Id": 36,
